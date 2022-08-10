@@ -39,7 +39,9 @@ While on vacation in Hawaii our client has decided to invest in a foolproof idea
 
 ## Summary
 
-Overall based on the analysis, the company has made some very important first steps to making sure they are covered or future-proofing positions that otherwise may go unfilled.  Especially with the boomers wrapping up their retirment boom, it is extra important that the company stay vigilate and proactive to recruiting and/or moving people into mentorship programs BEFORE the current talent is no longer working.  
+Overall based on the analysis, the company has made some productive first steps to making sure the Surf n' Shake can withstand incremental weather fatiuge and can continue to future-proof seasonal operation by analyzing the weather patterns and data,
+
+The data we pulled was simply for the previous year, the client should move forward with provided a more detail year over year history to present to the bigger investor.  The true picture for the average weather and parcipitation can not be truly plotted or interpreted with simply one year worth of data.
 
 The following is the full data set for the months of December and Jun:
 
