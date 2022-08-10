@@ -50,7 +50,7 @@ JUNE PARCIPITATION <br/>
 ![june_rain](https://github.com/Sacdees/surfs_up/blob/main/resources/june_rain.png)
 
 DECEMBER TEMPERATURE<br/>
-![dec_temp](https://github.com/Sacdees/surfs_up/blob/main/resources/dec_temp.png
+![dec_temp](https://github.com/Sacdees/surfs_up/blob/main/resources/dec_temp.png)
 
 JUNE TEMPERATURE <br/>
 ![june_temp](https://github.com/Sacdees/surfs_up/blob/main/resources/june_temp.png)
