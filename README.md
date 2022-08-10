@@ -43,16 +43,16 @@ Overall based on the analysis, the company has made some very important first st
 
 The following is the full data set for the months of December and Jun:
 
-DECEMBER PARCIPITATION
+DECEMBER PARCIPITATION <br/>
 ![dec_rain](https://github.com/Sacdees/surfs_up/blob/main/resources/dec_rain.png)
 
-JUNE PARCIPITATION
+JUNE PARCIPITATION <br/>
 ![june_rain](https://github.com/Sacdees/surfs_up/blob/main/resources/june_rain.png)
 
-DECEMBER TEMPERATURE
+DECEMBER TEMPERATURE<br/>
 ![dec_temp](https://github.com/Sacdees/surfs_up/blob/main/resources/dec_temp.png
 
-JUNE TEMPERATURE 
+JUNE TEMPERATURE <br/>
 ![june_temp](https://github.com/Sacdees/surfs_up/blob/main/resources/june_temp.png)
 
 
